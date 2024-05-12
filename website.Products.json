@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a1"
+  },
+  "model_name": "911",
+  "rate": null,
+  "price": 97400,
+  "publish_date": "2023-05-01",
+  "product_id": "PD001"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a2"
+  },
+  "model_name": "Panamera",
+  "rate": null,
+  "price": 89800,
+  "publish_date": "2023-04-01",
+  "product_id": "PD002"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a3"
+  },
+  "model_name": "Taycan",
+  "rate": null,
+  "price": 103800,
+  "publish_date": "2023-03-01",
+  "product_id": "PD003"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a4"
+  },
+  "model_name": "Macan",
+  "rate": null,
+  "price": 52900,
+  "publish_date": "2023-02-01",
+  "product_id": "PD004"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a5"
+  },
+  "model_name": "Cayenne",
+  "rate": null,
+  "price": 66750,
+  "publish_date": "2023-01-01",
+  "product_id": "PD005"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a6"
+  },
+  "model_name": "718 Boxster",
+  "rate": null,
+  "price": 62600,
+  "publish_date": "2022-12-01",
+  "product_id": "PD006"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a7"
+  },
+  "model_name": "718 Cayman",
+  "rate": null,
+  "price": 59600,
+  "publish_date": "2022-11-01",
+  "product_id": "PD007"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a8"
+  },
+  "model_name": "911 Carrera",
+  "rate": null,
+  "price": 114000,
+  "publish_date": "2022-10-01",
+  "product_id": "PD008"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392a9"
+  },
+  "model_name": "911 Turbo",
+  "rate": null,
+  "price": 203000,
+  "publish_date": "2022-09-01",
+  "product_id": "PD009"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392aa"
+  },
+  "model_name": "Panamera Turbo",
+  "rate": null,
+  "price": 123000,
+  "publish_date": "2022-08-01",
+  "product_id": "PD010"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392ab"
+  },
+  "model_name": "Macan S",
+  "rate": null,
+  "price": 63900,
+  "publish_date": "2022-07-01",
+  "product_id": "PD011"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392ac"
+  },
+  "model_name": "Cayenne S",
+  "rate": null,
+  "price": 84900,
+  "publish_date": "2022-06-01",
+  "product_id": "PD012"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392ad"
+  },
+  "model_name": "Taycan 4S",
+  "rate": null,
+  "price": 109000,
+  "publish_date": "2022-05-01",
+  "product_id": "PD013"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392ae"
+  },
+  "model_name": "911 GT3",
+  "rate": null,
+  "price": 147000,
+  "publish_date": "2022-04-01",
+  "product_id": "PD014"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392af"
+  },
+  "model_name": "718 Spyder",
+  "rate": null,
+  "price": 96300,
+  "publish_date": "2022-03-01",
+  "product_id": "PD015"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392b0"
+  },
+  "model_name": "Panamera 4",
+  "rate": null,
+  "price": 95000,
+  "publish_date": "2022-02-01",
+  "product_id": "PD016"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392b1"
+  },
+  "model_name": "Macan GTS",
+  "rate": null,
+  "price": 73900,
+  "publish_date": "2022-01-01",
+  "product_id": "PD017"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392b2"
+  },
+  "model_name": "Cayenne GTS",
+  "rate": null,
+  "price": 114000,
+  "publish_date": "2021-12-01",
+  "product_id": "PD018"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392b3"
+  },
+  "model_name": "Taycan Turbo",
+  "rate": null,
+  "price": 152000,
+  "publish_date": "2021-11-01",
+  "product_id": "PD019"
+},
+{
+  "_id": {
+    "$oid": "6633d960bec52a595b7392b4"
+  },
+  "model_name": "911 Carrera S",
+  "rate": null,
+  "price": 127000,
+  "publish_date": "2021-10-01",
+  "product_id": "PD020"
+}]
